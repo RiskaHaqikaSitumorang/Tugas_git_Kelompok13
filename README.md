@@ -3,13 +3,17 @@
 This is the project README.md
 ------------------------------------------------------------------------
 
-#PROJECT TITLE: Waterboom Ticket Reservation System
-#PURPOSE OF PROJECT: The purpose of this project is to create a simple ticket reservation system for a water park named 
+PROJECT TITLE : Waterboom Ticket Reservation System
+
+PURPOSE OF PROJECT : The purpose of this project is to create a simple ticket reservation system for a water park named 
                     "Waterboom." The system allows visitors to purchase tickets, select facilities, and calculates the 
                     total cost of their visit.
-#VERSION or DATE: (November 10, 2023)
-#AUTHORS: Berliani Utami & Riska Haqika Situmorang
-#USER INSTRUCTIONS:
+										
+VERSION or DATE : (November 10, 2023)
+
+AUTHORS : Berliani Utami & Riska Haqika Situmorang
+
+USER INSTRUCTIONS :
 1. Follow the on-screen instructions to navigate through the Waterboom ticket reservation system.
 2. Enter visitor details such as name, age, and VIP status.
 3. Choose from the list of available facilities (Gazebo, Bath Towel, Locker Room, Spa, Pijat) or enter 0 to finish selecting 
