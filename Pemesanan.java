@@ -2,7 +2,7 @@
 /**
  * Write a description of class Pemesanan here.
  *
- * @author (Riska Haqika Situmorang & Berliani Utami)
+ * @author (Berliani Utami & Riska Hakiqa Situmorang)
  * @version (13/11/2023)
  */
 import java.util.ArrayList;
