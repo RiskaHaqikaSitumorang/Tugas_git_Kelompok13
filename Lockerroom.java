@@ -2,7 +2,7 @@
 /**
  * Write a description of class locerrom here.
  *
- * @author (Riska Haqika Situmorang & Berliani Utami)
+ * @author (Berliani Utami & Riska Haqika Situmorang)
  * @version (13/11/2023)
  */
 class LockerRoom extends Fasilitas {
