@@ -3,7 +3,7 @@
  * Write a description of class Pengunjung here.
  *
  * @author (Riska Haqika Situmorang & Berliani Utami)
- * @version (11/13/2023)
+ * @version (13/11/2023)
  */
 public class Pengunjung {
     private String nama;
